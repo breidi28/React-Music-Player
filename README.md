@@ -231,10 +231,10 @@ music-player/
 | ALAC   | .m4a      | ✅       | 24-bit/192kHz |
 | WAV    | .wav      | ✅       | 24-bit/192kHz |
 | APE    | .ape      | ✅       | 24-bit/192kHz |
-| MP3    | .mp3      | ❌       | 320kbps |
-| AAC    | .aac, .m4a| ❌       | 320kbps |
-| OGG    | .ogg      | ❌       | ~500kbps |
-| WMA    | .wma      | ❌       | 320kbps |
+| MP3    | .mp3      | ✅       | 320kbps |
+| AAC    | .aac, .m4a| ✅       | 320kbps |
+| OGG    | .ogg      | ✅       | ~500kbps |
+| WMA    | .wma      | ✅       | 320kbps |
 
 ## Planned Features
 
@@ -285,3 +285,4 @@ For issues, questions, or suggestions, please open an issue on the GitHub reposi
 ---
 
 **Made with ❤️ for audiophiles**
+
