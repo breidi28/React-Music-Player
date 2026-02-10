@@ -7,15 +7,15 @@ A high-quality desktop music player built with Electron, React, and TypeScript, 
 
 ## ✨ Highlights
 
-- 🎵 **Audiophile-grade** playback with detailed quality metadata
-- 🎛️ **10-band parametric EQ** with genre-optimized presets  
-- 📀 **Album view** with beautiful artwork grid
-- 🔀 **Smart shuffle** and flexible repeat modes
-- ⌨️ **Comprehensive keyboard shortcuts** for power users
-- 🎨 **Dark, minimalist UI** designed for focus
-- 📊 **Signal path visualization** showing audio quality chain
-- 🔍 **Instant search** across your entire library
-- 💾 **Drag & drop** support for effortless library building
+-  **Audiophile-grade** playback with detailed quality metadata
+-  **10-band parametric EQ** with genre-optimized presets  
+-  **Album view** with beautiful artwork grid
+-  **Smart shuffle** and flexible repeat modes
+-  **Comprehensive keyboard shortcuts** for power users
+-  **Dark, minimalist UI** designed for focus
+-  **Signal path visualization** showing audio quality chain
+-  **Instant search** across your entire library
+-  **Drag & drop** support for effortless library building
 
 ## Features
 
@@ -43,7 +43,7 @@ A high-quality desktop music player built with Electron, React, and TypeScript, 
   - 🔵 **Lossless** (FLAC, ALAC, WAV)
   - ⚪ **Standard** (MP3, AAC, etc.)
 
-### 🎨 Modern Interface
+###  Modern Interface
 - **Dark Theme**: Easy on the eyes for long listening sessions
 - **Clean, Minimalist Design**: Focus on music, not clutter
 - **Real-time Spectrum Analyzer**: Visualize your music
@@ -51,7 +51,7 @@ A high-quality desktop music player built with Electron, React, and TypeScript, 
 - **Synchronized Lyrics**: Upload LRC files for time-synced lyrics display with auto-scrolling and highlighting
 - **Custom Window Controls**: Frameless, modern look
 
-### 🎛️ Player Controls
+###  Player Controls
 - **Playback Controls**: Play, Pause, Skip (Next/Previous)
 - **Shuffle Mode**: Random playback with smart track selection
 - **Repeat Modes**: Off, Repeat All, Repeat One
@@ -67,7 +67,7 @@ A high-quality desktop music player built with Electron, React, and TypeScript, 
 - **Context Menus**: Right-click to remove tracks or delete playlists
 - **Persistent Storage**: Playlists and settings saved automatically
 
-### ⌨️ Keyboard Shortcuts
+###  Keyboard Shortcuts
 - `Space`: Play/Pause
 - `←/→`: Seek backward/forward (5 seconds)
 - `Shift + ←/→`: Previous/Next track
@@ -285,4 +285,5 @@ For issues, questions, or suggestions, please open an issue on the GitHub reposi
 ---
 
 **Made with ❤️ for audiophiles**
+
 
